@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { User, Complaint } from '../types';
-import { api } from '../services/mockApi';
+import { api } from '../services/api';
 import ComplaintCard from '../components/ComplaintCard';
 import { Plus, List, MapPin, Upload, X, Loader2 } from 'lucide-react';
 

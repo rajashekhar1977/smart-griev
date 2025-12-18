@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { User, Complaint, ComplaintStatus, Department } from '../types';
-import { api } from '../services/mockApi';
+import { api } from '../services/api';
 import ComplaintCard from '../components/ComplaintCard';
 import StatusBadge from '../components/StatusBadge';
 import { Loader2, Brain, TrendingUp, AlertTriangle, CheckCircle, Clock } from 'lucide-react';
