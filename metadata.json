@@ -1,0 +1,9 @@
+{
+  "name": "Smart Griev",
+  "description": "An intelligent centralized complaint management portal that uses NLP to route citizen complaints to appropriate government departments.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
